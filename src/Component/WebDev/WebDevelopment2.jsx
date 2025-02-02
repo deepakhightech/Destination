@@ -16,7 +16,7 @@ import WhyChooseUs from "./WhyChoose.jsx";
 import ContactSection from "./ContactCom.jsx";
 import Card from "./Card.jsx";
 
-const Checking = () => {
+const WebDevelopment2 = () => {
   const features = [
     {
       heading: "Industry-Relevant Training",
@@ -238,4 +238,4 @@ const Checking = () => {
   );
 };
 
-export default Checking;
+export default WebDevelopment2;
